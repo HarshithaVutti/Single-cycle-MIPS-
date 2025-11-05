@@ -1,13 +1,5 @@
 # Single-cycle-MIPS
-Sure ✅ — here’s the *exact, ready-to-copy* README.md file content for your GitHub MIPS project.
-You can copy everything below (from # MIPS 32-bit Processor Project to the end) directly into your README.md file.
-
 ---
-
-# MIPS 32-bit Processor Project
-
-## 📘 Overview
-
 This project implements a simplified *32-bit MIPS single-cycle processor* using Verilog HDL.
 The processor is capable of executing a small subset of MIPS instructions such as *ADD, **SUB, **AND, **LW, **SW, **BEQ, and **ADDI*.
 The design was developed and simulated using *Vivado* and follows the classical single-cycle MIPS architecture structure.
@@ -202,4 +194,9 @@ mips_cpu/
 * Include J-type instructions (e.g., JUMP)
 * Add support for branch delay slots
 
+# Project Reference
+
+For more details on the design and implementation of a 32-bit Single-Cycle MIPS Processor, refer to the following report:
+
+[Design and Implementation of a 32-bit Single-Cycle MIPS Processor - ResearchGate](https://www.researchgate.net/publication/392345357_Design_and_Implementation_of_a_32-bit_Single-Cycle_MIPS_Processor_A_PROJECT_REPORT_OF_Course_Computer_Organization_and_Assembly)
 
