@@ -91,26 +91,6 @@ MEM[1] = DEADBEEF
 ...
 Simulation finished.
 
-
----
-
-## 🧱 Physical Design
-
-In the physical design stage, the synthesized Verilog modules can be implemented on FPGA or ASIC platforms.
-
-*FPGA Implementation (Vivado):*
-
-* Target Device: Xilinx Artix-7 (xc7a35ticsg324-1L)
-* Synthesis Tool: Vivado 2023.1
-* Simulation Tool: Vivado Simulator / ModelSim
-
-*Post-synthesis Reports:*
-
-* LUT Utilization
-* Flip-Flop Count
-* Timing Summary (Slack, Delay)
-* Power Analysis (Dynamic + Leakage)
-
 ---
 
 ## ⚠ Disadvantages
