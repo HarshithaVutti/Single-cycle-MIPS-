@@ -122,11 +122,10 @@ For ASIC design flow:
 | Stage                 | Tool                               | Output                     |
 | --------------------- | ---------------------------------- | -------------------------- |
 | RTL Coding            | Verilog                            | Behavioral Models          |
-| Functional Simulation | Vivado / ModelSim                  | Waveform Verification      |
-| Synthesis             | Vivado                             | Netlist & Resource Reports |
-| Implementation        | Vivado                             | Placement & Routing        |
-| Bitstream Generation  | Vivado                             | .bit File for FPGA         |
-| ASIC Flow             | Synopsys Design Compiler / Cadence | GDSII Layout               |
+| Functional Simulation | Vivado                             | Waveform Verification      |
+| Synthesis             | cadence                            | Netlist & Resource Reports |
+| Implementation        | cadence                            | Placement & Routing        |
+| ASIC Flow             | cadence                            | GDSII Layout               |
 
 *Performance Summary*
 
