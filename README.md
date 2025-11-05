@@ -1,8 +1,8 @@
 # Single-cycle-MIPS
 ---
 This project implements a simplified *32-bit MIPS single-cycle processor* using Verilog HDL.
-The processor is capable of executing a small subset of MIPS instructions such as *ADD, **SUB, **AND, **LW, **SW, **BEQ, and **ADDI*.
-The design was developed and simulated using *Vivado* and follows the classical single-cycle MIPS architecture structure.
+The processor is capable of executing a small subset of MIPS instructions such as ADD, SUB, AND, LW, SW, BEQ, and  ADDI.
+The design was developed and simulated using Vivado and follows the classical single-cycle MIPS architecture structure.
 
 ---
 
