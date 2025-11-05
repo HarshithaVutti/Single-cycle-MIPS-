@@ -202,16 +202,4 @@ mips_cpu/
 * Include J-type instructions (e.g., JUMP)
 * Add support for branch delay slots
 
----
 
-*Author:* Sathwika Vutla
-*Tools Used:* Xilinx Vivado, Verilog HDL
-*Project Type:* Educational / RTL Design / Processor Architecture
-
----
-
-*Tags:* #Verilog #Vivado #MIPS #FPGA #ProcessorDesign #ASIC #ComputerArchitecture
-
----
-
-Would you like me to generate a *short GitHub project description and keywords* (for the top of your repo page, e.g. under the title)? I can write that next.
