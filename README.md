@@ -1,1 +1,1 @@
-# Single-cycle-MIPS-
+# Single-cycle-MIPS
